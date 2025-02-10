@@ -24,7 +24,7 @@ A simple Hangman game where the player guesses letters to reveal a mystery word.
    ```
 2. Navigate to the project directory:
    ```sh
-   cd hangman-game
+   cd hangman187
    ```
 3. Run the script:
    ```sh
